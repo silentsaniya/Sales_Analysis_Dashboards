@@ -1,4 +1,4 @@
 # Sales_Dashboards
 
-![image](https://github.com/silentsaniya/Sales_Analysis_Dashboards/assets/92682294/b6c7c652-1773-4634-852c-524497cb80a4)
+![image](https://github.com/silentsaniya/Sales_Analysis_Dashboards/assets/92682294/fa372c0b-623b-4d3f-9526-4c6d509f16f4)
 
